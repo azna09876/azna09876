@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/azna09876/azna09876/main/ai-machine-learning-hands-robot-human-touching-big-data-network-connection-background-science-artificial-intelligence-172987598.webp" />
+</p>
 <h1 align="center">Hi 👋 I'm Asna</h1>
 <h3 align="center">MSc Statistics with Data Science Student | Data Analysis • Machine Learning • Time Series</h3>
 
