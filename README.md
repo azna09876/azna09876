@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asna</h1>
+<h1 align="center">Hi 👋 I'm Asna</h1>
 <h3 align="center">MSc Statistics with Data Science Student | Data Analysis • Machine Learning • Time Series</h3>
 
 ---
